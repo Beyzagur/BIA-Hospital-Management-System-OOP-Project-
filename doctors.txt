@@ -1,0 +1,24 @@
+title name surname id phone address gender bloodType password email branch
+Prof.Dr. Fatih Karel 99999999998 5301112233 AtaturkMah.AnkaraCd.123Sk12-A-Buca-Izmir M AB+ doktor1., fatihkarel@BIAmail.com Eye_Disease
+Prof.Dr. Mehmet Oz 99999999997 5305645666 AtaturkMah.IzmirCd.12343Sk1324-B-Buca-Izmir M A- doktor2., mehmetoz@BIAmail.com Cardiology
+Doc.Dr. Greg Goodman 23453095099 5302384398 AtaturkMah.KocaeliCd.143Sk124-D-Buca-Izmir M 0+ doktor3., greggoodman@BIAmail.com Dermatology
+Prof.Dr. Timur Gurgan 89234589832 5307348478 FatihMah.SalkimCd.143Sk18-D-Buca-Izmir M B+ doktor., timurgurgan@BIAmail.com Obstetrics_Gynecology
+Prof.Dr. Alisafak Dagli 15658977610 5322349392 BahcelievlerMah.AdaCd.143Sk124-A-Buca-Izmir M B- doktor4., alisafakdagli@BIAmail.com Ear_Nose_Throat
+Prof.Dr. Candan Gurses 12270451093 5408955959 HurriyetMah.Mah.ManavCd.KarpuzSk8-C-Buca-Izmir F 0- doktor5., candangurses@BIAmail.com Neurology
+Op.Dr. UmitMurat Erguven 20093494629 5314598458 CumhuriyetMah.DevletcilikCd.394Sk12-A-Buca-Izmir M A- doktor6., umitmuraterguven@BIA.com Orthopaedics
+Prof.Dr. Firat Keser 99678686998 5301456763 AtaturkMah.IstanbulCd.63.Sk.12-A-Buca-Izmir M A- doktor7., firatkeser@BIAmail.com Eye_Disease
+Prof.Dr. Engin Cakar 20232935108 5307845894 KahramanMah.IscievleriCd.MadencilerSk.35-B-Buca-Izmir M AB- doktor8., engincakar@BIAmail.com Internal_Medicine
+Op.Dr. Jannifer Ozpinar 10720096342 5535660099 YenigunMah.GungecmezCd.BaharSk.13-A-Buca-Izmir F AB+ doktor9., janniferozpinar@BIAmail.com Psychology
+Op.Dr. Ayten Yilmaz 18008439302 5305650969 AtaturkMah.SakaryaCd.36-2-Bornova-Izmir F 0- doktor10., aytenyilmaz@BIAmail.com Emergency Physiotherapy
+Prof.Dr. Katie Robinson 11671667501 5355698956 TopcularMah.AnafartalarCd.234.Sk.35-5-Gaziemir-Izmir F A+ doktor11., katierobinson@BIAmail.com Physiotherapy
+Doc.Dr. Nazli Pak 21101473562 5316950609 KurucesmeMah.7.Cd.345.Sk-Buca-Izmir F A+ doktor12., nazlipak@BIAmail.com Diet_Nutrition
+Op.Dr. Mehmet Turgut 17228516076 5404504590 AdatepeMah.IkizcesmelerCd.765.Sk.11-B-Buca-Izmir M A- doktor13., mehmetturgut@BIAmail.com Diet_Nutrition
+Prof.Dr. Arda Taspinar 16792970779 5387856858 M DoktorlarMah.KahvecilerCd.PinarSk.91-A-Narlidere-Izmir 0- doktor14., ardataspinar@BIAmail.com Psychology
+Op.Dr. Tolgahan Atakan 12276206528 5346877698 BahcelievlerMah.2.Cd.143Sk124-A-Buca-Izmir M B- doktor15., tolgahanatakan@BIAmail.com Emergency
+Doc.Dr. MustafaEnes Kurt 18229818245 5328908521 GaziOsmanPasaMah.Koza.Sk.58-5-Buca-Izmir M B+ doktor16., mustafaeneskurt@BIAmail.com Internal_Medicine
+Op.Dr. SalihBugra Asik 20409426786 5431120092 OdunpazariMah.PorsukcayiCd.341.Sk-Buca-Izmir M AB- doktor17., salihbugraasik@BIAmail.com Cardiology
+Op.Dr. Seray Celik 10728096342 5535660099 DoktorlarMah.KahvecilerCd.PinarSk.91-A-Narlidere-Izmir F AB+ doktor18., seraycelik@BIAmail.com Obstetrics_Gynecology
+Doc.Dr. GokceNur Sahin 17135650693 5434363537 KurucesmeMah.DereliCd-BilgiKoprusuSk.-41-C-Buca-Izmir F 0- doktor19., gokcenursahin@BIAmail.com Dermatology
+Doc.Dr. Damla Ozdemir 12322643921 5345848947 EmniyetcilerMah.YunuslarCd.SakinSk.5-C-Menemen-Izmir F 0+ doktor20., damlaozdemir@BIAmail.com Orthopaedics
+Doc.Dr. Kai Havertz 17135651693 5434363537 ChelseaMah.EnBuyukTakimCd.ortasaha29.Sk-42-C-Buca-Izmir M A- Chelsea29., kaihavertz29@BIAmail.com Ear_Nose_Throat
+Prof.Dr. Ali Cuvitoglu 11691668417 5304646445 ChelseaMah.EnBuyukTakýmCd.SampiyonSk.35-A-Buca-Izmir M A+ Chelsea.FC alicuvitoglu@BIAmail.com Neurology
